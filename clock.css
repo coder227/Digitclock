@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(188, 219, 245);
+}
+#banner{
+    color:white;
+    font-size:50px;
+    background-color: black;
+    padding:5px 0px;
+    margin: 10% auto 0%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    text-transform:uppercase;
+}
+span{
+  margin-left: 30px;
+
+}
+#clock , #calender{
+    background-color: rgb(234, 234, 238);
+    text-align: center;
+    font-family: sans-serif;
+}
